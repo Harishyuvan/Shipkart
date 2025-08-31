@@ -3,7 +3,8 @@ var sidenav = document.querySelector(".side-navbar")
 
 function  showNavbar() 
 {
-     sidenav.style.left="0"
+     sidenav.style.left="0";
+     sidenav.style.display = "inline-block";
     
 }
 

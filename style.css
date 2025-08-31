@@ -19,7 +19,6 @@ body{
 .navbar-links{
     display:flex;
     column-gap: 20px;
-    /* display: none; */
 }
 
 .navbar-links a{
@@ -155,6 +154,8 @@ body{
     align-items:center;
 }
 
+
+
 .news input{
     padding: 11px;
     width: 80vw;
@@ -286,4 +287,9 @@ img {
 
     flex-direction: column;
 }
+
+.news p{
+    padding-left: 5%;
+}
+
 }                                  
